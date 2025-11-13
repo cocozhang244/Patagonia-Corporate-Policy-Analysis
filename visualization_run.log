@@ -1,0 +1,45 @@
+================================================================================
+PATAGONIA ESG ANALYSIS - VISUALIZATION GENERATION
+================================================================================
+Loading analysis data...
+  ✓ Loaded: targets_goals_extracted.csv (150 records)
+  ✓ Loaded: language_tone_analysis.csv (62 records)
+  ✓ Loaded: initiatives_extracted.csv (108 records)
+  ✓ Loaded: geographic_references.csv (63 records)
+  ✓ Loaded: impact_areas_extracted.csv (125 records)
+
+================================================================================
+GENERATING VISUALIZATIONS
+================================================================================
+
+Generating language & tone visualizations...
+  ✓ Saved: visualizations/language_tone_analysis.png
+
+Generating target & goals visualizations...
+  ✓ Saved: visualizations/targets_goals_analysis.png
+
+Generating geographic distribution visualizations...
+  ✓ Saved: visualizations/geographic_distribution.png
+
+Generating impact areas visualizations...
+  ✓ Saved: visualizations/impact_areas_analysis.png
+
+Generating initiatives visualizations...
+  ✓ Saved: visualizations/initiatives_analysis.png
+
+Generating executive dashboard...
+  ✓ Saved: visualizations/EXECUTIVE_DASHBOARD.png
+
+================================================================================
+VISUALIZATION COMPLETE
+================================================================================
+Output directory: visualizations/
+
+Generated visualizations:
+  - language_tone_analysis.png
+  - targets_goals_analysis.png
+  - geographic_distribution.png
+  - impact_areas_analysis.png
+  - initiatives_analysis.png
+  - EXECUTIVE_DASHBOARD.png
+================================================================================
