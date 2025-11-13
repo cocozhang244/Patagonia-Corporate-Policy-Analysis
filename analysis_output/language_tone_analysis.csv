@@ -1,0 +1,63 @@
+document,year,doc_type,page_number,assertive_count,cautious_count,regulatory_count,activism_count,dominant_tone
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,1,0,1,0,0,cautious
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,2,2,0,0,4,activism
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,3,0,1,1,1,cautious
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,4,0,0,1,0,regulatory
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,6,1,1,0,1,assertive
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,8,0,1,0,0,cautious
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,9,1,0,0,0,assertive
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,10,2,0,0,0,assertive
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,11,1,1,0,0,assertive
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,12,0,0,0,1,activism
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,13,1,0,1,0,assertive
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,14,0,0,1,3,activism
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,15,1,0,0,0,assertive
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,16,0,1,0,0,cautious
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,18,1,0,0,0,assertive
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,1,0,1,0,0,cautious
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,2,0,1,1,1,cautious
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,3,0,0,1,0,regulatory
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,5,0,1,0,1,cautious
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,7,0,1,0,0,cautious
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,8,1,0,0,0,assertive
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,9,1,0,0,0,assertive
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,10,1,1,0,0,assertive
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,11,0,0,0,1,activism
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,12,1,0,1,0,assertive
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,13,0,0,1,3,activism
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,14,1,0,0,0,assertive
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,15,0,0,0,2,activism
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,17,1,0,0,0,assertive
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,2,0,0,3,1,regulatory
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,3,1,2,5,0,regulatory
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,4,2,1,2,2,assertive
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,5,3,1,3,1,assertive
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,6,2,2,4,0,regulatory
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,7,3,1,3,2,assertive
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,8,0,0,4,1,regulatory
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,9,1,1,2,1,regulatory
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,10,1,0,2,0,regulatory
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,11,0,0,2,0,regulatory
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,2,1,3,0,1,cautious
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,3,2,1,0,1,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,4,1,0,1,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,5,0,0,1,0,regulatory
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,8,1,0,0,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,9,1,1,0,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,10,1,0,1,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,11,1,0,0,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,12,1,1,0,1,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,14,0,0,0,1,activism
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,17,1,0,0,1,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,18,1,1,1,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,19,1,0,3,2,regulatory
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,20,1,0,1,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,21,1,0,0,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,22,1,0,0,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,23,1,1,0,1,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,24,1,0,0,0,assertive
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,25,2,0,0,0,assertive
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,2,1,1,3,1,regulatory
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,3,0,0,2,2,regulatory
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,4,2,1,3,0,regulatory
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,5,1,2,2,1,cautious

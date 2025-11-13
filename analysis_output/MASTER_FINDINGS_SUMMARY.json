@@ -1,0 +1,75 @@
+{
+  "extraction_summary": {},
+  "datasets": {
+    "targets_goals_extracted": {
+      "total_records": 150,
+      "columns": [
+        "document",
+        "year",
+        "doc_type",
+        "page_number",
+        "category",
+        "pattern_matched",
+        "extracted_text",
+        "context",
+        "word_count"
+      ],
+      "file_path": "analysis_output/targets_goals_extracted.csv"
+    },
+    "impact_areas_extracted": {
+      "total_records": 125,
+      "columns": [
+        "document",
+        "year",
+        "doc_type",
+        "page_number",
+        "impact_category",
+        "keyword_count",
+        "keywords_found"
+      ],
+      "file_path": "analysis_output/impact_areas_extracted.csv"
+    },
+    "geographic_references": {
+      "total_records": 63,
+      "columns": [
+        "document",
+        "year",
+        "doc_type",
+        "page_number",
+        "geographic_type",
+        "location",
+        "context"
+      ],
+      "file_path": "analysis_output/geographic_references.csv"
+    },
+    "language_tone_analysis": {
+      "total_records": 62,
+      "columns": [
+        "document",
+        "year",
+        "doc_type",
+        "page_number",
+        "assertive_count",
+        "cautious_count",
+        "regulatory_count",
+        "activism_count",
+        "dominant_tone"
+      ],
+      "file_path": "analysis_output/language_tone_analysis.csv"
+    },
+    "initiatives_extracted": {
+      "total_records": 108,
+      "columns": [
+        "document",
+        "year",
+        "doc_type",
+        "page_number",
+        "category",
+        "has_investment_amount",
+        "pattern_matched",
+        "context"
+      ],
+      "file_path": "analysis_output/initiatives_extracted.csv"
+    }
+  }
+}

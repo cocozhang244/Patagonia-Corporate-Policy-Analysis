@@ -1,0 +1,126 @@
+document,year,doc_type,page_number,impact_category,keyword_count,keywords_found
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,2,environmental,1,['carbon']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,2,social,3,"['employee', 'equity', 'community']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,4,governance,1,['transparency']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,6,environmental,3,"['climate', 'water', 'pollution']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,6,social,3,"['employee', 'community', 'health']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,7,environmental,5,"['emissions', 'greenhouse gas', 'water', 'waste', 'recycling']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,7,supply_chain,1,['supply chain']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,8,social,3,"['labor', 'worker', 'fair trade']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,8,supply_chain,1,['supplier']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,9,environmental,5,"['emissions', 'greenhouse gas', 'water', 'waste', 'footprint']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,10,environmental,6,"['carbon', 'greenhouse gas', 'solar', 'waste', 'plastic', 'footprint']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,10,social,1,['employee']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,11,governance,1,['board']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,12,environmental,4,"['renewable energy', 'solar', 'water', 'waste']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,12,social,4,"['worker', 'employee', 'community', 'safety']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,12,supply_chain,1,['supplier']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,13,governance,1,['transparency']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,14,environmental,4,"['climate', 'carbon', 'waste', 'footprint']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,14,governance,1,['transparency']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,15,social,1,['health']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,16,environmental,1,['climate']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,16,social,4,"['employee', 'living wage', 'health', 'safety']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,17,social,1,['employee']
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,19,social,2,"['worker', 'community']"
+PAT_2020_BCorp_Report-REV-100125.pdf,2020,BCorp Report,19,governance,1,['governance']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,3,governance,1,['transparency']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,5,environmental,5,"['climate', 'emissions', 'greenhouse gas', 'water', 'pollution']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,5,social,2,"['employee', 'health']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,6,environmental,5,"['emissions', 'greenhouse gas', 'water', 'waste', 'recycling']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,6,supply_chain,1,['supply chain']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,7,social,3,"['labor', 'worker', 'fair trade']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,7,supply_chain,1,['supplier']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,8,environmental,5,"['emissions', 'greenhouse gas', 'water', 'waste', 'footprint']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,9,environmental,6,"['carbon', 'emissions', 'greenhouse gas', 'solar', 'waste', 'footprint']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,10,governance,1,['board']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,11,environmental,4,"['solar', 'water', 'waste', 'recycling']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,11,social,1,['employee']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,12,governance,1,['transparency']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,13,environmental,4,"['climate', 'carbon', 'waste', 'footprint']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,13,governance,1,['transparency']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,14,social,1,['health']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,15,social,5,"['employee', 'living wage', 'community', 'health', 'safety']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,16,social,1,['employee']
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,18,social,2,"['worker', 'community']"
+PAT_2021_BCorp_Report-REV-100125.pdf,2021,BCorp Report,18,governance,1,['governance']
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,1,social,1,['labor']
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,2,social,2,"['labor', 'worker']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,2,governance,3,"['accountability', 'audit', 'disclosure']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,2,supply_chain,2,"['supplier', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,3,social,1,['labor']
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,3,governance,3,"['transparency', 'accountability', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,3,supply_chain,3,"['supply chain', 'due diligence', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,4,social,4,"['labor', 'worker', 'human rights', 'working conditions']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,4,governance,1,['disclosure']
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,4,supply_chain,3,"['supply chain', 'supplier', 'tier 2']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,5,social,4,"['labor', 'worker', 'human rights', 'working conditions']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,5,governance,4,"['compliance', 'audit', 'stakeholder', 'disclosure']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,5,supply_chain,5,"['supply chain', 'supplier', 'sourcing', 'audit', 'tier 2']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,6,social,3,"['labor', 'worker', 'working conditions']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,6,governance,3,"['compliance', 'audit', 'disclosure']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,6,supply_chain,7,"['supply chain', 'supplier', 'sourcing', 'due diligence', 'audit', 'tier 1', 'tier 2']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,7,social,5,"['labor', 'worker', 'fair trade', 'health', 'safety']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,7,governance,2,"['transparency', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,7,supply_chain,5,"['supplier', 'sourcing', 'audit', 'tier 1', 'tier 2']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,8,social,3,"['labor', 'worker', 'human rights']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,8,governance,4,"['board', 'accountability', 'compliance', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,8,supply_chain,4,"['supply chain', 'supplier', 'sourcing', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,9,social,3,"['labor', 'worker', 'employee']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,9,governance,3,"['accountability', 'compliance', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,9,supply_chain,4,"['supply chain', 'supplier', 'sourcing', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,10,social,3,"['labor', 'worker', 'employee']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,10,governance,3,"['audit', 'stakeholder', 'disclosure']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,10,supply_chain,4,"['supply chain', 'supplier', 'sourcing', 'audit']"
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,11,social,1,['labor']
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,11,governance,1,['transparency']
+PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf,2021,Modern Slavery Act,11,supply_chain,1,['supply chain']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,2,environmental,1,['climate']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,2,social,4,"['labor', 'worker', 'employee', 'community']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,2,governance,3,"['governance', 'audit', 'stakeholder']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,2,supply_chain,1,['audit']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,3,environmental,2,"['climate', 'wind']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,4,governance,1,['board']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,5,governance,1,['transparency']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,7,environmental,5,"['emissions', 'greenhouse gas', 'water', 'waste', 'recycling']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,8,environmental,5,"['emissions', 'greenhouse gas', 'water', 'waste', 'footprint']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,9,governance,1,['board']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,10,governance,1,['transparency']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,11,social,1,['health']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,12,social,2,"['employee', 'community']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,13,environmental,3,"['renewable energy', 'water', 'ecosystem']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,13,social,1,['employee']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,14,environmental,2,"['water', 'ocean']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,14,social,5,"['labor', 'worker', 'employee', 'fair trade', 'health']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,16,social,2,"['worker', 'community']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,16,governance,1,['governance']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,17,social,2,"['worker', 'community']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,17,governance,2,"['governance', 'audit']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,17,supply_chain,2,"['supply chain', 'audit']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,18,social,2,"['labor', 'worker']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,18,governance,2,"['governance', 'stakeholder']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,19,environmental,2,"['climate', 'water']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,19,social,10,"['worker', 'employee', 'living wage', 'diversity', 'equity', 'inclusion', 'community', 'health', 'safety', 'well-being']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,19,governance,6,"['governance', 'transparency', 'ethics', 'stakeholder', 'disclosure', 'reporting']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,19,supply_chain,2,"['supply chain', 'supplier']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,20,governance,1,['governance']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,21,social,4,"['worker', 'employee', 'health', 'safety']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,22,social,1,['community']
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,22,supply_chain,3,"['supply chain', 'supplier', 'traceability']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,23,social,4,"['labor', 'fair trade', 'equity', 'community']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,23,supply_chain,2,"['supply chain', 'supplier']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,24,environmental,3,"['emissions', 'greenhouse gas', 'footprint']"
+PAT_2024_BCorp_Report-V2-100125.pdf,2024,BCorp Report,24,supply_chain,2,"['supply chain', 'supplier']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,1,social,1,['labor']
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,2,social,2,"['labor', 'worker']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,2,governance,3,"['board', 'transparency', 'compliance']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,2,supply_chain,4,"['supply chain', 'supplier', 'sourcing', 'due diligence']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,3,social,3,"['labor', 'worker', 'fair trade']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,3,governance,2,"['compliance', 'audit']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,3,supply_chain,5,"['supply chain', 'supplier', 'sourcing', 'due diligence', 'audit']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,4,social,6,"['labor', 'worker', 'employee', 'fair trade', 'health', 'safety']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,4,governance,3,"['board', 'transparency', 'audit']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,4,supply_chain,4,"['supply chain', 'supplier', 'sourcing', 'audit']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,5,social,2,"['labor', 'human rights']"
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,5,governance,1,['reporting']
+PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf,2024,Modern Slavery Act,5,supply_chain,3,"['supply chain', 'supplier', 'due diligence']"

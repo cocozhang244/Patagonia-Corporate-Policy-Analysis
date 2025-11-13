@@ -1,0 +1,228 @@
+================================================================================
+PATAGONIA ESG ANALYSIS - CONTENT EXTRACTION
+================================================================================
+Loading 11 extracted documents...
+  ✓ Loaded: PAT_2020_BCorp_Report-REV-100125.pdf (2020)
+  ✓ Loaded: PAT_2021_BCorp_Report-REV-100125.pdf (2021)
+  ✓ Loaded: PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf (2021)
+  ✓ Loaded: PAT_2024_BCorp_Report-V2-100125.pdf (2024)
+  ✓ Loaded: PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf (2024)
+  ✓ Loaded: Patagonia 2025 pt1.pdf (2025)
+  ✓ Loaded: Patagonia 2025 pt2.pdf (2025)
+  ✓ Loaded: Patagonia 2025 pt3.pdf (2025)
+  ✓ Loaded: Patagonia 2025 pt4.pdf (2025)
+  ✓ Loaded: Patagonia 2025 pt5.pdf (2025)
+  ✓ Loaded: Patagonia pt6.pdf (2025)
+
+================================================================================
+BEGINNING TARGETED EXTRACTIONS
+================================================================================
+
+================================================================================
+EXTRACTING TARGETS AND GOALS
+================================================================================
+
+Analyzing: PAT_2020_BCorp_Report-REV-100125.pdf (2020)
+  Found 24 target mentions
+
+Analyzing: PAT_2021_BCorp_Report-REV-100125.pdf (2021)
+  Found 18 target mentions
+
+Analyzing: PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf (2021)
+  Found 42 target mentions
+
+Analyzing: PAT_2024_BCorp_Report-V2-100125.pdf (2024)
+  Found 42 target mentions
+
+Analyzing: PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf (2024)
+  Found 24 target mentions
+
+Analyzing: Patagonia 2025 pt1.pdf (2025)
+  Found 0 target mentions
+
+Analyzing: Patagonia 2025 pt2.pdf (2025)
+  Found 0 target mentions
+
+Analyzing: Patagonia 2025 pt3.pdf (2025)
+  Found 0 target mentions
+
+Analyzing: Patagonia 2025 pt4.pdf (2025)
+  Found 0 target mentions
+
+Analyzing: Patagonia 2025 pt5.pdf (2025)
+  Found 0 target mentions
+
+Analyzing: Patagonia pt6.pdf (2025)
+  Found 0 target mentions
+
+✓ Saved to: analysis_output/targets_goals_extracted.csv
+
+================================================================================
+ANALYZING LANGUAGE AND TONE
+================================================================================
+
+Analyzing: PAT_2020_BCorp_Report-REV-100125.pdf (2020)
+  Language patterns: Assertive=10, Cautious=6, Regulatory=4, Activism=10
+
+Analyzing: PAT_2021_BCorp_Report-REV-100125.pdf (2021)
+  Language patterns: Assertive=6, Cautious=5, Regulatory=4, Activism=8
+
+Analyzing: PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf (2021)
+  Language patterns: Assertive=13, Cautious=8, Regulatory=30, Activism=8
+
+Analyzing: PAT_2024_BCorp_Report-V2-100125.pdf (2024)
+  Language patterns: Assertive=19, Cautious=8, Regulatory=8, Activism=8
+
+Analyzing: PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf (2024)
+  Language patterns: Assertive=4, Cautious=4, Regulatory=10, Activism=4
+
+Analyzing: Patagonia 2025 pt1.pdf (2025)
+  Language patterns: Assertive=0, Cautious=0, Regulatory=0, Activism=0
+
+Analyzing: Patagonia 2025 pt2.pdf (2025)
+  Language patterns: Assertive=0, Cautious=0, Regulatory=0, Activism=0
+
+Analyzing: Patagonia 2025 pt3.pdf (2025)
+  Language patterns: Assertive=0, Cautious=0, Regulatory=0, Activism=0
+
+Analyzing: Patagonia 2025 pt4.pdf (2025)
+  Language patterns: Assertive=0, Cautious=0, Regulatory=0, Activism=0
+
+Analyzing: Patagonia 2025 pt5.pdf (2025)
+  Language patterns: Assertive=0, Cautious=0, Regulatory=0, Activism=0
+
+Analyzing: Patagonia pt6.pdf (2025)
+  Language patterns: Assertive=0, Cautious=0, Regulatory=0, Activism=0
+
+✓ Saved to: analysis_output/language_tone_analysis.csv
+
+================================================================================
+EXTRACTING INITIATIVES
+================================================================================
+
+Analyzing: PAT_2020_BCorp_Report-REV-100125.pdf (2020)
+  Found 22 initiative mentions
+
+Analyzing: PAT_2021_BCorp_Report-REV-100125.pdf (2021)
+  Found 19 initiative mentions
+
+Analyzing: PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf (2021)
+  Found 27 initiative mentions
+
+Analyzing: PAT_2024_BCorp_Report-V2-100125.pdf (2024)
+  Found 23 initiative mentions
+
+Analyzing: PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf (2024)
+  Found 17 initiative mentions
+
+Analyzing: Patagonia 2025 pt1.pdf (2025)
+  Found 0 initiative mentions
+
+Analyzing: Patagonia 2025 pt2.pdf (2025)
+  Found 0 initiative mentions
+
+Analyzing: Patagonia 2025 pt3.pdf (2025)
+  Found 0 initiative mentions
+
+Analyzing: Patagonia 2025 pt4.pdf (2025)
+  Found 0 initiative mentions
+
+Analyzing: Patagonia 2025 pt5.pdf (2025)
+  Found 0 initiative mentions
+
+Analyzing: Patagonia pt6.pdf (2025)
+  Found 0 initiative mentions
+
+✓ Saved to: analysis_output/initiatives_extracted.csv
+
+================================================================================
+EXTRACTING GEOGRAPHIC REFERENCES
+================================================================================
+
+Analyzing: PAT_2020_BCorp_Report-REV-100125.pdf (2020)
+
+Analyzing: PAT_2021_BCorp_Report-REV-100125.pdf (2021)
+
+Analyzing: PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf (2021)
+
+Analyzing: PAT_2024_BCorp_Report-V2-100125.pdf (2024)
+
+Analyzing: PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf (2024)
+
+Analyzing: Patagonia 2025 pt1.pdf (2025)
+
+Analyzing: Patagonia 2025 pt2.pdf (2025)
+
+Analyzing: Patagonia 2025 pt3.pdf (2025)
+
+Analyzing: Patagonia 2025 pt4.pdf (2025)
+
+Analyzing: Patagonia 2025 pt5.pdf (2025)
+
+Analyzing: Patagonia pt6.pdf (2025)
+
+✓ Saved 63 geographic references to: analysis_output/geographic_references.csv
+
+================================================================================
+EXTRACTING IMPACT AREAS
+================================================================================
+
+Analyzing: PAT_2020_BCorp_Report-REV-100125.pdf (2020)
+  Impact areas: {'environmental': 29, 'social': 22, 'governance': 5, 'supply_chain': 3}
+
+Analyzing: PAT_2021_BCorp_Report-REV-100125.pdf (2021)
+  Impact areas: {'environmental': 29, 'social': 15, 'governance': 5, 'supply_chain': 2}
+
+Analyzing: PAT_2021_LegalDocuments-ModernSlaveryAct-012423.pdf (2021)
+  Impact areas: {'environmental': 0, 'social': 30, 'governance': 27, 'supply_chain': 38}
+
+Analyzing: PAT_2024_BCorp_Report-V2-100125.pdf (2024)
+  Impact areas: {'environmental': 23, 'social': 38, 'governance': 19, 'supply_chain': 12}
+
+Analyzing: PAT_2024_LegalDocuments-ModernSlaveryAct-060324.pdf (2024)
+  Impact areas: {'environmental': 0, 'social': 14, 'governance': 9, 'supply_chain': 16}
+
+Analyzing: Patagonia 2025 pt1.pdf (2025)
+  Impact areas: {'environmental': 0, 'social': 0, 'governance': 0, 'supply_chain': 0}
+
+Analyzing: Patagonia 2025 pt2.pdf (2025)
+  Impact areas: {'environmental': 0, 'social': 0, 'governance': 0, 'supply_chain': 0}
+
+Analyzing: Patagonia 2025 pt3.pdf (2025)
+  Impact areas: {'environmental': 0, 'social': 0, 'governance': 0, 'supply_chain': 0}
+
+Analyzing: Patagonia 2025 pt4.pdf (2025)
+  Impact areas: {'environmental': 0, 'social': 0, 'governance': 0, 'supply_chain': 0}
+
+Analyzing: Patagonia 2025 pt5.pdf (2025)
+  Impact areas: {'environmental': 0, 'social': 0, 'governance': 0, 'supply_chain': 0}
+
+Analyzing: Patagonia pt6.pdf (2025)
+  Impact areas: {'environmental': 0, 'social': 0, 'governance': 0, 'supply_chain': 0}
+
+✓ Saved to: analysis_output/impact_areas_extracted.csv
+
+================================================================================
+CREATING MASTER FINDINGS DATABASE
+================================================================================
+  ✓ targets_goals_extracted: 150 records
+  ✓ impact_areas_extracted: 125 records
+  ✓ geographic_references: 63 records
+  ✓ language_tone_analysis: 62 records
+  ✓ initiatives_extracted: 108 records
+
+✓ Master findings summary saved to: analysis_output/MASTER_FINDINGS_SUMMARY.json
+
+================================================================================
+CONTENT EXTRACTION COMPLETE
+================================================================================
+Output directory: analysis_output/
+
+Generated datasets:
+  - targets_goals_extracted.csv
+  - language_tone_analysis.csv
+  - initiatives_extracted.csv
+  - geographic_references.csv
+  - impact_areas_extracted.csv
+  - MASTER_FINDINGS_SUMMARY.json
+================================================================================
